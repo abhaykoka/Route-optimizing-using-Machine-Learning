@@ -19,6 +19,13 @@
 18. Varanasi
 19. Vishakhapatnam
 '''
+'''
+sample input
+------
+6
+Agra
+Bengaluru, Chennai, Delhi, Hyderabad, Jaipur, Mumbai
+'''
 import numpy as np
 import pandas as pd
 
